@@ -1,5 +1,4 @@
-
-# Salary Simple Data Regression 
+# Simple Regression Model on Salary Dataset
 
 This repository involves building a simple linear regressioin model on a 'Salary' dataset.
 
